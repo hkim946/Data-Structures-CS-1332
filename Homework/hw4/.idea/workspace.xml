@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c098134d-5d9d-461d-96c5-f4df6551a606" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XciYlBiGylAUq7VL1e0LxkHywH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BSTStudentTest">
+    <configuration name="BSTStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTStudentTest.testClear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTStudentTest" />
+      <option name="METHOD_NAME" value="testClear" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTStudentTest.testGetMaxDataPerLevel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTStudentTest" />
+      <option name="METHOD_NAME" value="testGetMaxDataPerLevel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTStudentTest.testHeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTStudentTest" />
+      <option name="METHOD_NAME" value="testHeight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTStudentTest.testRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTStudentTest" />
+      <option name="METHOD_NAME" value="testRemove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BSTStudentTest" />
+        <item itemvalue="JUnit.BSTStudentTest.testGetMaxDataPerLevel" />
+        <item itemvalue="JUnit.BSTStudentTest.testRemove" />
+        <item itemvalue="JUnit.BSTStudentTest.testClear" />
+        <item itemvalue="JUnit.BSTStudentTest.testHeight" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c098134d-5d9d-461d-96c5-f4df6551a606" name="Default Changelist" comment="" />
+      <created>1581351834739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581351834739</updated>
+      <workItem from="1581351842952" duration="23459000" />
+      <workItem from="1581387749860" duration="2379000" />
+      <workItem from="1581390526397" duration="944000" />
+      <workItem from="1583011730397" duration="698000" />
+      <workItem from="1583269046860" duration="1880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="77" y="101" key="#Project_Structure" timestamp="1581351893474">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="77" y="101" key="#Project_Structure/0.23.1440.825@0.23.1440.825" timestamp="1581351893474" />
+    <state x="361" y="109" width="979" height="682" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581388781082">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="361" y="109" width="979" height="682" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.825@0.23.1440.825" timestamp="1581388781082" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1581384175102">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.23.1440.825@0.23.1440.825" timestamp="1581384175102" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom" timestamp="1583445123338">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583445123338" />
+    <state width="1086" height="261" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1581387598966" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center" timestamp="1583445123336">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="219" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583445123336" />
+    <state width="1086" height="261" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1581387598964" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left" timestamp="1583445123334">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="219" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583445123334" />
+    <state width="1086" height="261" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1581387598964" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right" timestamp="1583445123337">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="219" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583445123337" />
+    <state width="1086" height="261" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1581387598965" />
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom" timestamp="1581390519441">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581390519441" />
+    <state width="1063" height="254" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1581380091730" />
+    <state width="1398" height="254" key="GridCell.Tab.1.center" timestamp="1581390519439">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1581390519439" />
+    <state width="1063" height="254" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1581380091729" />
+    <state width="1398" height="254" key="GridCell.Tab.1.left" timestamp="1581390519438">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1581390519438" />
+    <state width="1063" height="254" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1581380091728" />
+    <state width="1398" height="254" key="GridCell.Tab.1.right" timestamp="1581390519440">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581390519440" />
+    <state width="1063" height="254" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1581380091729" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1581390569157">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581390569157" />
+    <state x="432" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581351940999">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="432" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1581351940999" />
+    <state x="427" y="73" key="refactoring.ChangeSignatureDialog" timestamp="1581385988637">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="73" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1581385988637" />
+    <state x="626" y="172" width="670" height="676" key="search.everywhere.popup" timestamp="1581356428263">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="626" y="172" width="670" height="676" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1581356428263" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BSTStudentTest.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

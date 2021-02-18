@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9883fe3-5b79-45c9-8603-763360809045" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aV5lysIZ8qbAjBunIUTucPUyo1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Karthik_GraphJUnit.bfsNullVertex">
+    <configuration name="KSudaJUnit10$MyQueueStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10" />
+      <option name="PACKAGE_NAME" value="eaf3edb1a82d15aeb1a7bc3ca1b2ecab-b5915c51d1c94a018495f2e839ee746db4016023" />
+      <option name="MAIN_CLASS_NAME" value="KSudaJUnit10$MyQueueStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KSudaJUnit10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10" />
+      <option name="PACKAGE_NAME" value="eaf3edb1a82d15aeb1a7bc3ca1b2ecab-b5915c51d1c94a018495f2e839ee746db4016023" />
+      <option name="MAIN_CLASS_NAME" value="KSudaJUnit10" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Karthik_GraphJUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10" />
+      <option name="PACKAGE_NAME" value="29cdfa0070f63efc00e0f011025b75a8-8a3f088f9958cb22168cadac0c06202577c24239" />
+      <option name="MAIN_CLASS_NAME" value="Karthik_GraphJUnit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Karthik_GraphJUnit.bfsNullVertex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10" />
+      <option name="PACKAGE_NAME" value="29cdfa0070f63efc00e0f011025b75a8-8a3f088f9958cb22168cadac0c06202577c24239" />
+      <option name="MAIN_CLASS_NAME" value="Karthik_GraphJUnit" />
+      <option name="METHOD_NAME" value="bfsNullVertex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchottJUnit10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10" />
+      <option name="PACKAGE_NAME" value="ca03482e0e9e97723740928c8e786633-171b16986cafd59e279aa16a17898d2684a63ee3" />
+      <option name="MAIN_CLASS_NAME" value="SchottJUnit10" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Karthik_GraphJUnit.bfsNullVertex" />
+        <item itemvalue="JUnit.SchottJUnit10" />
+        <item itemvalue="JUnit.KSudaJUnit10" />
+        <item itemvalue="JUnit.KSudaJUnit10$MyQueueStudentTest" />
+        <item itemvalue="JUnit.Karthik_GraphJUnit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9883fe3-5b79-45c9-8603-763360809045" name="Default Changelist" comment="" />
+      <created>1586808076904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586808076904</updated>
+      <workItem from="1586808081731" duration="1842000" />
+      <workItem from="1588210030088" duration="12000" />
+      <workItem from="1588215069252" duration="217000" />
+      <workItem from="1588282003804" duration="330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1586830275635">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586830275635" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1586830275633">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586830275633" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1586830275631">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586830275631" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1586830275634">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586830275634" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1586809201362">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586809201362" />
+    <state x="432" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586808147056">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="432" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1586808147056" />
+  </component>
+</project>

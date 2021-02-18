@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba38b65d-dbbd-4c3d-b721-3391aa547b2d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WOvFR6AhQV7CJ6KTszxEIoszyE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CircularSinglyLinkedListStudentTest.testToArray">
+    <configuration name="CircularSinglyLinkedListStudentTest.testClear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CircularSinglyLinkedListStudentTest" />
+      <option name="METHOD_NAME" value="testClear" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircularSinglyLinkedListStudentTest.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CircularSinglyLinkedListStudentTest" />
+      <option name="METHOD_NAME" value="testGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircularSinglyLinkedListStudentTest.testIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CircularSinglyLinkedListStudentTest" />
+      <option name="METHOD_NAME" value="testIsEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircularSinglyLinkedListStudentTest.testLastOccurrence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CircularSinglyLinkedListStudentTest" />
+      <option name="METHOD_NAME" value="testLastOccurrence" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircularSinglyLinkedListStudentTest.testToArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CircularSinglyLinkedListStudentTest" />
+      <option name="METHOD_NAME" value="testToArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CircularSinglyLinkedListStudentTest.testToArray" />
+        <item itemvalue="JUnit.CircularSinglyLinkedListStudentTest.testLastOccurrence" />
+        <item itemvalue="JUnit.CircularSinglyLinkedListStudentTest.testClear" />
+        <item itemvalue="JUnit.CircularSinglyLinkedListStudentTest.testIsEmpty" />
+        <item itemvalue="JUnit.CircularSinglyLinkedListStudentTest.testGet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba38b65d-dbbd-4c3d-b721-3391aa547b2d" name="Default Changelist" comment="" />
+      <created>1579033351895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579033351895</updated>
+      <workItem from="1579033358390" duration="3032000" />
+      <workItem from="1579043751176" duration="24718000" />
+      <workItem from="1579254982111" duration="277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1579033375396">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1579033375396" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579036836076">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1579036836076" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1579255270409">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579255270409" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1579242350317" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1579255270407">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579255270407" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1579242350315" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1579255270406">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579255270406" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1579242350313" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1579255270408">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579255270408" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1579242350316" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1579245703899">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579245703899" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1579242350322" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1579245703896">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1579245703896" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1579242350319" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1579245703893">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1579245703893" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1579242350318" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1579245703897">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1579245703897" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1579242350320" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1579255078351">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1579255078351" />
+    <state x="432" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579036824063">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="432" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1579036824063" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1579037087229">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1579037087229" />
+  </component>
+</project>
